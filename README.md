@@ -3,14 +3,27 @@
 <!--
 **Daydaysilva/Daydaysilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎯 **Aspiring Semiconductor Process Engineer | Data Analysis Enthusiast**  
+🌍 Currently based in Edinburgh, United Kingdom  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+- 👩‍💻 **Learning how to code**!  
+- 🌟 Passionate about technology, processes, and data-driven solutions.  
+- 📊 Currently exploring **Data Analysis** and **Python Programming**.  
+
+---
+
+### My GitHub Focus
+- 📂 [Data Analysis Projects](https://github.com/your-username/data-analysis-python)  
+- 📘 Exploring tools like **Power BI**, **Python**, and **Excel** to deliver insights.  
+- 🚀 Future goals include projects related to **Semiconductor Process Analysis**.
+
+---
+
+### Skills
+- Python (pandas, matplotlib, seaborn)  
+- Data Visualization  
+- Semiconductor Basics (FEOL, BEOL, Photolithography)  
+- Excel & Power BI  
