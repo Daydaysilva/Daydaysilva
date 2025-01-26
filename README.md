@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Daydaysilva/Daydaysilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎯 **Aspiring Semiconductor Process Engineer | Data Analysis Enthusiast**  
 🌍 Currently based in Edinburgh, United Kingdom  
 
@@ -27,3 +24,7 @@
 - Data Visualization  
 - Semiconductor Basics (FEOL, BEOL, Photolithography)  
 - Excel & Power BI  
+
+<!--
+**Daydaysilva/Daydaysilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
