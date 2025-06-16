@@ -1,30 +1,42 @@
-## Hi there 👋
+# Hi there 👋
 
-🎯 **Aspiring Semiconductor Process Engineer | Data Analysis Enthusiast**  
-🌍 Currently based in Edinburgh, United Kingdom  
-
----
-
-### About Me
-- 👩‍💻 **Learning how to code**!  
-- 🌟 Passionate about technology, processes, and data-driven solutions.  
-- 📊 Currently exploring **Data Analysis** and **Python Programming**.  
+🎯 **Aspiring Software Developer** | **Data Analysis Enthusiast** | **Semiconductor Process Engineer (Background)**  
+🌍 Currently based in **Edinburgh, United Kingdom**
 
 ---
 
-### My GitHub Focus
-- 📂 [Data Analysis Projects](https://github.com/your-username/data-analysis-python)  
-- 📘 Exploring tools like **Power BI**, **Python**, and **Excel** to deliver insights.  
-- 🚀 Future goals include projects related to **Semiconductor Process Analysis**.
+## 📌 About Me  
+👩‍💻 Passionate about continuous learning and development in software engineering  
+🌟 Exploring multiple areas: **software development**, **data analysis**, and **quality assurance (QA)**  
+📚 Building a broad skillset through hands-on projects and structured study  
+💡 Maintaining and growing my knowledge in **semiconductor processes**
 
 ---
 
-### Skills
-- Python (pandas, matplotlib, seaborn)  
-- Data Visualization  
-- Semiconductor Basics (FEOL, BEOL, Photolithography)  
-- Excel & Power BI  
+## 💻 GitHub Focus  
+📂 **Software Development Projects**  
+📊 **Data Analysis and Visualization** using Python, Power BI, and Excel  
+🛠 **QA and Testing** methodologies  
+🚀 Long-term goal: apply data-driven solutions to **semiconductor process optimization**
 
-<!--
-**Daydaysilva/Daydaysilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+## 🛠 Skills  
+- **Programming**: Python (pandas, matplotlib, seaborn), SQL  
+- **Data Tools**: Power BI, Excel  
+- **Software Engineering**: Git/GitHub, testing basics, documentation  
+- **Semiconductors**: FEOL, BEOL, photolithography concepts  
+
+---
+
+## 🎓 Current Learning Path  
+- 📘 Software fundamentals: algorithms, data structures, OOP  
+- 🌐 Web basics: HTML, CSS, JavaScript  
+- 🔧 Version control: Git and GitHub workflows  
+- 📈 Data analysis: exploratory data analysis, data visualization  
+- ✅ QA principles: manual testing, test documentation  
+
+---
+
+📫 Feel free to explore my repositories to see my journey and progress.  
+🤝 Let's connect and collaborate on meaningful projects!
